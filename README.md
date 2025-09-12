@@ -39,19 +39,6 @@ Access the app:
 
 Code
 http://localhost/muradshop/pages/index.html
-📂 Folder Structure
-Code
-muradshop/
-├── pages/
-├── php/
-│   └── admin/
-├── css/
-├── js/
-├── assets/
-├── sql/
-└── .env
-📸 Screenshots
-Add screenshots of homepage, product page, cart, and admin dashboard here.
 
 📃 License
 This project is licensed under the MIT License — see the LICENSE file for details.
