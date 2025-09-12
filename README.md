@@ -22,11 +22,6 @@ MuradShop is a fully responsive, multilingual e-commerce web application built w
 
 ## 🚀 Setup Instructions
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/MuradIsazade777/muradshop.git
-Move the project to your XAMPP htdocs folder:
-
 Code
 C:/xampp/htdocs/muradshop/
 Start Apache and MySQL via XAMPP Control Panel.
